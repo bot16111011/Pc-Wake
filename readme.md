@@ -5,6 +5,6 @@ This power script helps to make PC awake by random clicks every 5 seconds and ty
 ```
 .\awake_script.ps1
 ```
-**User can also paste the whole script in powershel directly.**
+**User can also paste the whole script in powershell directly.**
 
 ### And its done 
